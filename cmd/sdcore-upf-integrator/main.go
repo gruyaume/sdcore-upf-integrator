@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/gruyaume/certificates-operator/internal/charm"
 	"github.com/gruyaume/goops/commands"
 	"github.com/gruyaume/goops/environment"
+	"github.com/gruyaume/sdcore-upf-integrator/internal/charm"
 )
 
 func main() {

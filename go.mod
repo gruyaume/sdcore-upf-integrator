@@ -1,4 +1,4 @@
-module github.com/gruyaume/certificates-operator
+module github.com/gruyaume/sdcore-upf-integrator
 
 go 1.24.0
 

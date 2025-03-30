@@ -3,8 +3,8 @@ package charm
 import (
 	"fmt"
 
-	"github.com/gruyaume/certificates-operator/internal/integrations/fiveg_n4"
 	"github.com/gruyaume/goops/commands"
+	"github.com/gruyaume/sdcore-upf-integrator/internal/integrations/fiveg_n4"
 )
 
 const (
